@@ -26,4 +26,4 @@ Je travaille à l'intersection du matériel, du logiciel et de l'industrie 4.0. 
 * **Site Web Personnel :** Création d'un site web complet de A à Z pour documenter mes projets.
 * **Homelab & Auto-hébergement :** Déploiement et maintenance de mon serveur maison pour héberger mon site de façon indépendante.
 * **R&D Continue :** Exploration de l'intégration entre le monde de l'automatisation industrielle et le développement logiciel moderne (IoT, MQTT, dashboards).
-* **Integration LLM de differents projets personnel**
+* **Integration LLM de differents projets personnels**
